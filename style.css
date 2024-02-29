@@ -1,0 +1,29 @@
+html {
+  height: 100%;
+  width: 100%;
+  font-family: sans-serif;
+}
+button{
+  font-size: 20px;
+}
+table{
+  border-spacing: 10px
+}
+.cell{
+  border: 2px solid black;
+  width: 100px;
+  height: 100px;
+  font-size: 40px;
+  text-align: center;
+  cursor: pointer;
+}
+#player{
+  font-family: sans-serif;
+  font-size: 20px;
+  margin-bottom:20px;
+}
+#result{
+  font-family: sans-serif;
+  font-size: 40px;
+  margin-top: 20px;
+}
